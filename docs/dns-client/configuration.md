@@ -231,8 +231,8 @@ The `log` object configures the logging. It has the following properties:
 
   - `timestamp`: Specifies whether to include a timestamp in the log entries.
 
-    **Example:** `false`
+    **Example:** `true`
 
   - `verbose`: Specifies whether the log should be more informative.
 
-    **Example:** `false`
+    **Example:** `true`
